@@ -16,3 +16,7 @@ code {
   width: 80%;
   margin: auto;
 }
+
+.page__no--background {
+  margin-top: 90px !important;
+}

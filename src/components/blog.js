@@ -32,7 +32,7 @@ class Blog extends Component {
     })
     return (
       <div>
-        <h1>Blog</h1>
+        <h1 className="page__no--background">Blog</h1>
         <div className="container blog-container">{userList}</div>
       </div>
     );

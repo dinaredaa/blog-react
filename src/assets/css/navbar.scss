@@ -3,6 +3,11 @@
   color: white;
   overflow: hidden;
   margin-bottom: 30px;
+  z-index: 1000;
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
 
   .logo {
     font-size: 25px;

@@ -20,7 +20,7 @@ class Post extends Component {
   
   render () {
     return (
-      <div className="container blog-container">
+      <div className="container blog-container page__no--background">
         <div className="post">
           <h3>{this.state.post.title}</h3>
           <p>{this.state.post.body}</p>
